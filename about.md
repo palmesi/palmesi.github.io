@@ -7,7 +7,7 @@ layout: page
 <p>Meine berufliche Heimat sehe ich im Schnittpunkt zwischen Naturwissenschaft,
 Informatik und Technik. Ich programmiere begeistert seit meiner Zeit an der
 technischen Schule und löse gerne analytische Probleme alleine oder im Team. Das
-Doktorat hat mich gelehrt  komplexe Projekte mit langem Zeithorizont aus eigenem
+Doktorat hat mich gelehrt, komplexe Projekte mit langem Zeithorizont aus eigenem
 Antrieb zu lösen. Zum Ausgleich treibe ich gerne Sport, meditiere und singe im
 Chor.</p>
 
