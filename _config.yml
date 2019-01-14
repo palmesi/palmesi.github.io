@@ -2,7 +2,7 @@ sass:
   sass_dir: _sass
 
 # main text of home
-name: Dr. DI Pietro Palmesi
+name: DI Dr. Pietro Palmesi
 bio: PHYSIKER & TECHNISCHER INFORMATIKER
 
 # twitter summary info
@@ -58,7 +58,7 @@ disqus:
 
 authors:
     johndoe:
-        name: DR. DI Pietro Palmesi
+        name: DI DR. Pietro Palmesi
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
